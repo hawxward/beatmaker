@@ -1,0 +1,12 @@
+.pad{
+    width:200px;
+    height:200px;
+    background-color:#666666;
+    margin:5px;
+    border:8px solid#999999 
+    
+}
+
+.ButtonD{
+    display:inline;
+}

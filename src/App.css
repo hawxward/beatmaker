@@ -1,0 +1,53 @@
+.menu{
+  background-color: rgb(255, 255, 255);
+  height:500px;
+  width:50%;
+  text-align: center;
+  margin-left:25%;
+  color: black;
+
+}
+body{
+  min-width:100%;
+  min-height:100%;
+
+  background-color:gray;
+  text-align: center;
+}
+.fa-play{
+  color: black;
+}
+.play{
+  text-align: center;
+}
+
+.buttonHouse{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  color: black;
+}
+
+.drumpad{
+ width: 75%;
+  
+
+  
+}
+
+.DrumpadLink{
+  float:right;
+  bottom:10%;
+  width:50%;
+  display:block;
+}
+
+.DrumSequencer{
+  width:75%;
+}
+
+.DrumSequencerLink{
+  float:left;
+  width:50%;
+  display:block;
+}
