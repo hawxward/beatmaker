@@ -1,6 +1,6 @@
 .menu{
   background-color: rgb(255, 255, 255);
-  height:500px;
+  height:100%;
   width:50%;
   text-align: center;
   margin-left:25%;
@@ -37,7 +37,7 @@ body{
 
 .DrumpadLink{
   float:right;
-  bottom:10%;
+ 
   width:50%;
   display:block;
 }
