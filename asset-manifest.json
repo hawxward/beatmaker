@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beatmaker/static/css/main.795641e1.chunk.css",
+    "main.js": "/beatmaker/static/js/main.ebd43131.chunk.js",
+    "main.js.map": "/beatmaker/static/js/main.ebd43131.chunk.js.map",
+    "runtime~main.js": "/beatmaker/static/js/runtime~main.a4683966.js",
+    "runtime~main.js.map": "/beatmaker/static/js/runtime~main.a4683966.js.map",
+    "static/js/2.d1219a6b.chunk.js": "/beatmaker/static/js/2.d1219a6b.chunk.js",
+    "static/js/2.d1219a6b.chunk.js.map": "/beatmaker/static/js/2.d1219a6b.chunk.js.map",
+    "index.html": "/beatmaker/index.html",
+    "precache-manifest.7a2bd0b231cda9f5e0b4708a591bca41.js": "/beatmaker/precache-manifest.7a2bd0b231cda9f5e0b4708a591bca41.js",
+    "service-worker.js": "/beatmaker/service-worker.js",
+    "static/css/main.795641e1.chunk.css.map": "/beatmaker/static/css/main.795641e1.chunk.css.map",
+    "static/media/808hconga.wav": "/beatmaker/static/media/808hconga.8d08371f.wav",
+    "static/media/Clap02.wav": "/beatmaker/static/media/Clap02.f2910c32.wav",
+    "static/media/Crash.wav": "/beatmaker/static/media/Crash.fb090900.wav",
+    "static/media/HiHat.wav": "/beatmaker/static/media/HiHat.b91b64ff.wav",
+    "static/media/Kick.wav": "/beatmaker/static/media/Kick.d3369824.wav",
+    "static/media/Shaker.wav": "/beatmaker/static/media/Shaker.3111c849.wav",
+    "static/media/SnareSound.wav": "/beatmaker/static/media/SnareSound.a3af7ccf.wav",
+    "static/media/Tom.wav": "/beatmaker/static/media/Tom.6399c42c.wav",
+    "static/media/drum pad.svg": "/beatmaker/static/media/drum pad.d43507e1.svg",
+    "static/media/drumSequencer.svg": "/beatmaker/static/media/drumSequencer.59d2a27c.svg"
+  }
+}
